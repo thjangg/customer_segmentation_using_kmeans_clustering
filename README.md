@@ -21,3 +21,8 @@ Dataset provided detailed information about quantities, characteristics and valu
 
 The data is organized into 8 columns, each representing key attributes of retail store transactions and could be used contains enough information to perform RFM then segment customers.
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The Pyspark codes utilized to inspect and perform quality checks can be found [here].
+
+# Executive Summary
+Using Excel for better data visualization, after using K-means clustering to figure out the right amount of group customers, there are four segmentation: **Potential Loyalists, Lost Customers, Loyal Customers and Champions.**
+![image](https://github.com/user-attachments/assets/e29ff25d-794d-4e25-b491-2c51cf6159f5)
+
