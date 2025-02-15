@@ -65,21 +65,67 @@ As provided in the Executive Summary, **Potential Loyalists** took up to about *
 
 
 
+
+
 # Recommendations - Strategic Growth Plan for Key Customer Segments
 
 Based on the insights and findings above, we would recommend the business could focus in each customers with different actions as follow:
 
+
  **1. Champions: Keep Them Engaged & Spending More** 
 While these are our most valuable customers—they purchase frequently and consistently; moreover, in March, we saw a slight drop in frequency, likely due to post-holiday fatigue. My suggested business strategy will be: 
+
 - **VIP Exclusive Access:** Give them early access to new products and premium experiences.
 - **Subscription Model:** Offer them a convenient way to purchase regularly with subscription-based discounts.
 - **Personalized Bundles & Upselling:** Encourage them to spend more per order by offering tailored product bundles.
 
-With the expected impact:
-:heavy_check_mark:
-✔️ _Higher retention & stronger loyalty_ from our best customers.
-✔️ _Increased AOV_ through premium pricing & subscriptions.
-✔️ _Stable frequency_ throughout the year, reducing seasonal fluctuations.
+With the expected impact:<br/>
+✔️ **Higher retention & stronger loyalty** from our best customers.<br/>
+✔️ **Increased AOV** through premium pricing & subscriptions.<br/>
+✔️ **Stable frequency** throughout the year, reducing seasonal fluctuations.
+
+
+
+**2. Loyal Customers: Keep Them Coming Back More Often**
+
+They stopped buying in early Q1 but re-engaged towards the end of the year—a clear success story. However, in March, their frequency dropped, meaning they need an extra push to stay engaged as: 
+
+- **Tiered Loyalty Rewards:** Reward for repeat purchases—the more they buy, the bigger the perks
+- **Personalized Upselling**: Using past purchase behavior to recommend premium add-ons.
+    
+With the expected impact:<br/>
+✔️ **Increased frequency**—we keep them engaged year-round, not just seasonally.<br/>
+✔️ **Higher customer lifetime value** (CLV)—they spend more over time.<br/>
+✔️ **Stronger brand attachment**, making them resistant to competitors.
+
+
+
+**3. Lost Customers: Win Them Back & Boost Order Value**
+
+They represent a massive untapped revenue opportunity—they’ve spent with us before, but they stopped coming back.
+The good new is Recency is decreasing, meaning some are already returning. However, their order values and frequency remain low, meaning they need an extra incentive to stay.
+
+- **We Miss You! Campaigns:** Email with exclusive discounts and personalized incentives.
+- **Flash Sales for Returning Customers**
+- **Easy One-Click Reordering:** Remove friction—make it super simple for them to buy again.
+  
+With the expected impact:<br/>
+✔️ **Higher reactivation rates**<br/>
+✔️ **Unlock new revenue streams** from customers we previously considered “lost.”
+
+
+
+**4. Potential Loyalists: Convert Them Into Our Next Champions**
+
+Their AOV is high, meaning they have the potential to be high-value customers but they don’t buy frequently enough.
+- **Exclusive Subscription Discounts:** Lock them in with subscription-based perks—"Buy Monthly, Save Big!"
+- **Bundling & Cross-Selling:** If they love a product, offer them complementary products at a discount.
+
+With the expected impact:<br/>
+✔️ Turn casual buyers into committed, high-value customers.<br/>
+✔️**Increase frequency** by reducing time between purchases.<br/>
+
+
 
 
 
