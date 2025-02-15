@@ -8,7 +8,7 @@ Despite having a large amount of data on customer shopping behavior, exploiting 
 - **Support optimizing inventory management**, based on spending patterns and shopping frequency.
 
 #### Key Analytical Approaches
-The project will use two approaches to cluster customers and evaluate the effectiveness of each:
+The project will use two approaches to cluster customers and evaluate the effectiveness of each, both on **PySpark Databricks:**
 
 - K-means clustering on the entire dataset, including all detailed transactions.
 - K-means clustering based on the **RFM (Recency, Frequency, Monetary)** model, a popular method in customer behavior analysis.
