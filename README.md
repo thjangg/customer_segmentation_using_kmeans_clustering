@@ -1,7 +1,8 @@
 # Project Background
-Dataset obtained from a consumer retail business which, during the year, recorded 64,682 transactions, including 5,242 products (SKUs) sold to 22,625 customers.
+Dataset obtained from a consumer retail business which, during the year, recorded over **64K transactions**, including more than **5K products** (SKUs) sold to over **22K customers.**
+Conducted **exploratory analysis** and **cleaning for dataset in PySpark** to understand customer behavior in transactions through **RFM mectrics**. Used **Excel to summarize trends**; discovered **most popular products and most valuable customer groups**.
 
-Despite having a large amount of data on customer shopping behavior, exploiting this data to optimize business strategies has not been done comprehensively. Therefore, the main goal of this project is to apply Customer Segmentation using the K-means Clustering algorithm, aiming to:
+Despite having a large amount of data on customer shopping behavior, exploiting this data to optimize business strategies has not been done comprehensively. Therefore, the main goal of this project is to **apply Customer Segmentation using the K-means Clustering algorithm**, aiming to:
 
 - **Understand potential customer groups**, helping to **personalize marketing strategies.**
 - **Improve the effectiveness of promotional programs** through analyzing the characteristics of each group.
